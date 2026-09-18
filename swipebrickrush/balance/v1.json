@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "brickCountWeights": [18, 35, 30, 20],
-  "pickupChance": 0.47,
+  "brickCountWeights": [18, 33, 30, 22],
+  "pickupChance": 0.45,
   "scorePerTurn": 100,
   "scorePerBrickDestroyed": 10
 }
